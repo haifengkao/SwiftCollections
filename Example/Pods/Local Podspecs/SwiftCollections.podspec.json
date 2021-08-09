@@ -1,8 +1,8 @@
 {
   "name": "SwiftCollections",
-  "version": "0.1.0",
-  "summary": "A short description of SwiftCollections.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.2.0",
+  "summary": "Commonly used data structures for Swift. Written by Apple",
+  "description": "pod version of apple/swift-collections",
   "homepage": "https://github.com/haifengkao/SwiftCollections",
   "license": {
     "type": "MIT",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/haifengkao/SwiftCollections.git",
-    "tag": "0.1.0"
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "14.0",

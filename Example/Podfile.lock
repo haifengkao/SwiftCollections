@@ -1,7 +1,7 @@
 PODS:
   - Nimble (9.2.0)
   - Quick (4.0.0)
-  - SwiftCollections (0.1.0)
+  - SwiftCollections (0.2.0)
 
 DEPENDENCIES:
   - Nimble
@@ -12,10 +12,12 @@ EXTERNAL SOURCES:
   SwiftCollections:
     :path: "../"
 
+CHECKOUT OPTIONS: 
+
 SPEC CHECKSUMS:
   Nimble: 4f4a345c80b503b3ea13606a4f98405974ee4d0b
   Quick: 6473349e43b9271a8d43839d9ba1c442ed1b7ac4
-  SwiftCollections: 0693b757a6736560127f5d24d0dbed56b9c47173
+  SwiftCollections: 037a4d771299166ba843aa07a3e8285ac2a6d720
 
 COCOAPODS: 1.10.2
 
