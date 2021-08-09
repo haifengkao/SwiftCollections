@@ -35,7 +35,7 @@ TODO: Add long description of the pod here.
 
   s.swift_version = '5'
 
-  s.source_files = 'SwiftCollections/Classes/**/*'
+  s.source_files = 'SwiftCollections/Classes/**/*.swift'
 
   # s.resource_bundles = {
   #   'SwiftCollections' => ['SwiftCollections/Assets/*.png']

@@ -1,0 +1,27 @@
+PODS:
+  - Nimble (9.2.0)
+  - Quick (4.0.0)
+  - SwiftCollections (0.1.0)
+
+DEPENDENCIES:
+  - Nimble
+  - Quick
+  - SwiftCollections (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftCollections:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 4f4a345c80b503b3ea13606a4f98405974ee4d0b
+  Quick: 6473349e43b9271a8d43839d9ba1c442ed1b7ac4
+  SwiftCollections: 0693b757a6736560127f5d24d0dbed56b9c47173
+
+COCOAPODS: 1.10.2
+
+PODFILE CHECKSUM: 31da205a39a4a7fb7941e60dfed207bf6a386e8b
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick

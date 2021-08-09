@@ -1,0 +1,25 @@
+{
+  "name": "SwiftCollections",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftCollections.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/haifengkao/SwiftCollections",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hai Feng Kao": "haifeng@cocoaspice.in"
+  },
+  "source": {
+    "git": "https://github.com/haifengkao/SwiftCollections.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "14.0",
+    "osx": "11.0"
+  },
+  "swift_versions": "5",
+  "source_files": "SwiftCollections/Classes/**/*.swift",
+  "swift_version": "5"
+}
